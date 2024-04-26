@@ -1,2 +1,2 @@
-# newamazon
-New Look and Feel of Amazon
+# Amazon redesigned
+The redesigned Amazon experience focuses on providing a user-friendly and efficient shopping experience.  The home page will prioritize user needs with personalized recommendations, simplified navigation, and highlighted deals. The electronics page will make it easier to find what you're looking for with better product discovery tools, clear comparisons, and detailed information. Finally, the cart page will streamline the checkout process with a consolidated view of your items, editing options, and transparent cost breakdowns.  Also, the user can you dark theme. Overall, these changes aim to make shopping on Amazon smoother and more enjoyable.
